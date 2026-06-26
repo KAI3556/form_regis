@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f6d443-0a0d-4d22-b393-102906464534" name="Changes" comment="" />
+    <list default="true" id="40f6d443-0a0d-4d22-b393-102906464534" name="Changes" comment="standard">
+      <change afterPath="$PROJECT_DIR$/form/src/AddressForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/addresses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/components/FormField.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/src/hooks/useAddressForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/assets/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/assets/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/main.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,10 +77,30 @@
       <workItem from="1782201452447" duration="626000" />
       <workItem from="1782202098343" duration="135000" />
       <workItem from="1782202245348" duration="1416000" />
+      <workItem from="1782204050291" duration="87000" />
+      <workItem from="1782204186106" duration="375000" />
+      <workItem from="1782204576323" duration="63000" />
+      <workItem from="1782204649572" duration="205000" />
+      <workItem from="1782204894347" duration="3828000" />
+      <workItem from="1782210639349" duration="30000" />
+      <workItem from="1782459608998" duration="417000" />
     </task>
+    <task id="LOCAL-00001" summary="standard">
+      <option name="closed" value="true" />
+      <created>1782204082639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782204082639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="standard" />
+    <option name="LAST_COMMIT_MESSAGE" value="standard" />
   </component>
 </project>
