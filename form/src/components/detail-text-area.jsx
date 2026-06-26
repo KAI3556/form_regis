@@ -1,6 +1,6 @@
-import styles from '../AddressForm.module.css'
+import styles from '../adress-fom.module.css'
 
-export default function DetailTextarea({ value, onChange, error }) {
+export default function DetailTextArea({ value, onChange, error }) {
     return (
         <div>
             <textarea

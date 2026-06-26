@@ -1,4 +1,4 @@
-import styles from '../AddressForm.module.css'
+import styles from '../adress-fom.module.css'
 
 export default function AddressSelect({ value, onChange, options, placeholder, error }) {
     return (

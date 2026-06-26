@@ -1,9 +1,9 @@
-import styles from './AddressForm.module.css'
+import styles from './adress-fom.module.css'
 import { useAddressForm } from './hooks/useAddressForm.js'
-import FormField from './components/FormField.jsx'
-import AddressSelect from './components/AddressSelect.jsx'
-import DetailTextarea from './components/DetailTextarea.jsx'
-import SuccessBox from './components/SuccessBox.jsx'
+import FormField from './components/form-field.jsx'
+import AddressSelect from './components/address-select.jsx'
+import DetailTextArea from './components/detail-text-area.jsx'
+import SuccessBox from './components/success-box.jsx'
 
 export default function AdressForm() {
     const f = useAddressForm()
@@ -56,7 +56,7 @@ export default function AdressForm() {
                     />
                 )}
 
-                <DetailTextarea
+                <DetailTextArea
                     value={f.fields.detail}
                     onChange={e => f.setDetail(e.target.value)}
                     error={f.errors.detail}
