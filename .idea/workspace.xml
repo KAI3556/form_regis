@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40f6d443-0a0d-4d22-b393-102906464534" name="Changes" comment="standard">
+      <change afterPath="$PROJECT_DIR$/form/src/address-form/address-select.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/AddressForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/adress-fom.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/adress-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/adress-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/components/AddressSelect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/components/address-select.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/components/DetailTextarea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/components/detail-text-area.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/components/FormField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/components/form-field.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/src/components/SuccessBox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/components/success-box.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/form/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/form/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/adress-fom.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/address-form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/adress-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/address-form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/address-select.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/detail-text-area.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/detail-text-area.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/form-field.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/form-field.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/success-box.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/success-box.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/hooks/useAddressForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/address-form/useAddressForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/form/src/main.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +64,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\WebstormProjects\form\form\src\address-form" />
+      <recent name="C:\Users\Asus\WebstormProjects\form\form\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +93,7 @@
       <workItem from="1782204649572" duration="205000" />
       <workItem from="1782204894347" duration="3828000" />
       <workItem from="1782210639349" duration="30000" />
-      <workItem from="1782459608998" duration="704000" />
+      <workItem from="1782459608998" duration="1822000" />
     </task>
     <task id="LOCAL-00001" summary="standard">
       <option name="closed" value="true" />
@@ -106,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782460145141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="standard">
+      <option name="closed" value="true" />
+      <created>1782460324598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782460324598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

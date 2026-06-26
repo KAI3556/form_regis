@@ -1,11 +1,12 @@
 // import { useState } from 'react'
-import './App.css'
-import AdressForm from './adress-form.jsx'
+import './App.css';
+import AddressForm from "./address-form/address-form.jsx";
 
 function App() {
   return (
-      <AdressForm />
+      <AddressForm />
   )
 }
 
-export default App
+export default App;
+
